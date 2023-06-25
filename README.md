@@ -1,7 +1,7 @@
 # jslinkparse
 
 A simple Python 3 script to organize JS Link Finder (Burp Extension) output for further testing. 
-NOTE: probably does not handle many "edge" cases well
+NOTE: probably does not handle some edge cases well.
 
 ## Usage
 
