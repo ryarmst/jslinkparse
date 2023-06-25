@@ -19,7 +19,3 @@ This tool consumes output from JS Link Finder - a tool based on LinkFinder. You 
 
 - [JS Link Finder](https://github.com/PortSwigger/js-link-finder)
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
-
-## TODO
-
-If I ever have time, I might just fork the extension and expand the sorting options in Burp.
